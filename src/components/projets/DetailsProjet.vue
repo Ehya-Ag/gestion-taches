@@ -1,6 +1,6 @@
 <template>
     <div class="details-container">
-      <button class="btn-close" @click="closeDetails">×</button>
+      <!-- <button class="btn-close" @click="closeDetails">×</button> -->
       <h2>Détails du Projet</h2>
       <div v-if="project">
         <p><strong>Nom:</strong> {{ project.name }}</p>
