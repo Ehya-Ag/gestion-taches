@@ -8,7 +8,7 @@
       <div class="container-fluid">
         <router-link to="/" class="navbar-brand d-flex align-items-center">
           <i class="fas fa-book me-2"></i> <!-- Brand icon -->
-          <strong>ProjectPro</strong>
+          <strong>GestionPro</strong>
         </router-link>
   
         <button
