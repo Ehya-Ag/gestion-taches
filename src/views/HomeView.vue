@@ -1,10 +1,9 @@
 <template>
   <div class="landing-page">
     <div class="video-background">
-      <!-- <video autoplay loop muted playsinline>
+      <video autoplay loop muted playsinline>
         <source src="https://www.w3schools.com/howto/rain.mp4" type="video/mp4" />
-        Your browser does not support the video tag.
-      </video> -->
+      </video>
       <!-- Autre gif:
       <img src="https://media.giphy.com/media/xTkcEQACH24SMPxIQg/giphy.gif" alt="background-gif" />
       -->
